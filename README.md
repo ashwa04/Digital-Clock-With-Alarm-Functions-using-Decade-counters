@@ -34,7 +34,7 @@ This project demonstrates the design and hardware implementation of a Digital Cl
 *Integration of Counters, Decoders, and Multiplexers.*
 
 ## 📸 Hardware Implementation
-![Prototype](digital_clock_integratedwith_alarm/Photos/Hardware_Implementation.jpg)
+![Prototype](digital_clock_integratedwith_alarm/Photos/Hardware_Implementation.png)
 *The final assembled circuit on PCB.*
 
 ## 🧠 Logic & Theory
